@@ -15,8 +15,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Programmers: Almas Amjad \n";
-    cout << "Programmer's ID: 1470401\n";
+    
     cout << "File: " << __FILE__ << endl;
     
     StaticArray <double, 100> a;
