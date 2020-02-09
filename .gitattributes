@@ -1,0 +1,6 @@
+# Specify filepatterns you want to assign special attributes.
+.pbxproj binary
+*.xcuserstate  binary merge
+.xcodeproj 
+*.docx diff=word
+
